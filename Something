@@ -1,0 +1,8 @@
+public class GitHub {
+  public GitHub (){
+     int a = 1;
+     int b = 2;
+     boolean c = false;
+     
+  }
+} 			
